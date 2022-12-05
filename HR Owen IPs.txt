@@ -1,0 +1,49 @@
+Maserati:
+	Lounge:
+		Projector
+	
+	Consultation Room 1:
+		Atlona Matrix Switcher
+		LG TV
+	
+	Consultation Room 1:
+		Atlona Matrix Switcher
+		LG TV
+
+HR Owen:
+	Boardroom:
+		LG TV
+
+	Private Dining:
+		LG TV
+
+	Admin Reception:
+		LG TV
+
+	Customer Lounge:
+		LG TV
+
+Bentley:
+	Atelier Display:
+		Atlona Matrix Switcher
+		LG TV
+
+
+RACKS:
+	Maserati Rack:
+		LG CVCA Controller
+
+	AVR-102-1:
+		LG CVCA Controller - Lamborghini
+		LG CVCA Controller - Foyer 1
+		LG CVCA Controller - Foyer 2
+		LG CVCA Controller - Foyer 3
+
+	AVR-102-2:
+		LG CVCA Controller - External Wall 1
+		LG CVCA Controller - External Wall 1
+		LG CVCA Controller - Hero Wall 1
+		LG CVCA Controller - Hero Wall 2
+
+	AV-104:
+		LG CVCA - Pre-Owned
