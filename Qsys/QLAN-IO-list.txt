@@ -1,0 +1,28 @@
+QLAN TX:
+//Bentley Core
+In1 	- Bentley Mood Player Left
+In2 	- Bentley Mood Player Right
+
+//Foyer Core
+In3 	- Foyer Mood Player Left
+In4 	- Foyer Mood Player Right
+
+//Lamborghini Core
+In5 	- Lamborghini Mood Player Left
+In6 	- Lamborghini Mood Player Right
+
+//Maserati Core
+In7 	- Maserati Mood Player 1 Left
+In8 	- Maserati Mood Player 1 Right
+In9 	- Maserati Mood Player 2 Left
+In10 	- Maserati Mood Player 2 Right
+
+//Pre-Owned Core
+In11	- PreOwned Mood Player Left
+In12	- PreOwned Mood Player Right
+
+//Unit4 Core
+In13	- Unit4 Mood Player Left
+In14	- Unit4 Mood Player Right
+In15	- Handover Mood Player Left
+In16	- Handover Mood Player Right
